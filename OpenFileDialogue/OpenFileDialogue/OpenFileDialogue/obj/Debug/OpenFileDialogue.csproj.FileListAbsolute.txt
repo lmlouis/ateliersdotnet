@@ -1,0 +1,9 @@
+D:\4emGenieLogiciel\Atelier.Net\TP1\OpenFileDialogue\OpenFileDialogue\OpenFileDialogue\bin\Debug\OpenFileDialogue.exe.config
+D:\4emGenieLogiciel\Atelier.Net\TP1\OpenFileDialogue\OpenFileDialogue\OpenFileDialogue\bin\Debug\OpenFileDialogue.exe
+D:\4emGenieLogiciel\Atelier.Net\TP1\OpenFileDialogue\OpenFileDialogue\OpenFileDialogue\bin\Debug\OpenFileDialogue.pdb
+D:\4emGenieLogiciel\Atelier.Net\TP1\OpenFileDialogue\OpenFileDialogue\OpenFileDialogue\obj\Debug\OpenFileDialogue.csprojResolveAssemblyReference.cache
+D:\4emGenieLogiciel\Atelier.Net\TP1\OpenFileDialogue\OpenFileDialogue\OpenFileDialogue\obj\Debug\OpenFileDialogue.Form1.resources
+D:\4emGenieLogiciel\Atelier.Net\TP1\OpenFileDialogue\OpenFileDialogue\OpenFileDialogue\obj\Debug\OpenFileDialogue.Properties.Resources.resources
+D:\4emGenieLogiciel\Atelier.Net\TP1\OpenFileDialogue\OpenFileDialogue\OpenFileDialogue\obj\Debug\OpenFileDialogue.csproj.GenerateResource.Cache
+D:\4emGenieLogiciel\Atelier.Net\TP1\OpenFileDialogue\OpenFileDialogue\OpenFileDialogue\obj\Debug\OpenFileDialogue.exe
+D:\4emGenieLogiciel\Atelier.Net\TP1\OpenFileDialogue\OpenFileDialogue\OpenFileDialogue\obj\Debug\OpenFileDialogue.pdb
